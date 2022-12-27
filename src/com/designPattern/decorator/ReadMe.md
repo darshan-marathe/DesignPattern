@@ -30,7 +30,7 @@ to solve this problem we can create sub classes like `TataACPowerWindow` or `Tat
 so it become impractcal and we need large number of different combinations of class.
 
 
-![plot](/Users/marathed/TomTom/Development/src/com/designPattern/decorator/img.png)
+![plot](./img.png)
 
 
    
